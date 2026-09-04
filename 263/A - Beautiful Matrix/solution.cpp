@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <cstdlib>
 using namespace std;
  
 int main() {
@@ -9,7 +10,7 @@ int main() {
             cin >> x;
  
             if (x == 1) {
-                cout << abs(i - 3) + abs(j - 3) << endl;
+                cout << abs(i - 3) + abs(j - 3);
             }
         }
     }
