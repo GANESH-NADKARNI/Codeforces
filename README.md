@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 7 |
+| 8 | 7 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (3)
-- [math](#math) (1)
+- [math](#math) (2)
 - [strings](#strings) (1)
 
 ---
@@ -59,6 +59,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 
 ### strings
