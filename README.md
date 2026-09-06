@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 9 | 7 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -51,6 +51,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
@@ -67,6 +68,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 
 ---
 
