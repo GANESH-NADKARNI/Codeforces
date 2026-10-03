@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 12 |
+| 41 | 12 |
 
 ---
 
@@ -17,12 +17,12 @@
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (27)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (11)
 
 ---
@@ -71,6 +71,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
@@ -136,6 +137,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ### strings
