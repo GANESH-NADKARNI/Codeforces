@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/443/problem/A" target="_blank" rel="noopener noreferrer">443A — Anton and Letters</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 443A](https://codeforces.com/contest/443/problem/A) |
+
+## Topics
+`constructive algorithms` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Anton and Letters</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Recently, Anton has found a set. The set consists of small English letters. Anton carefully wrote out all the letters from the set in one line, separated by a comma. He also added an opening curved bracket at the beginning of the line and a closing curved bracket at the end of the line. </p><p>Unfortunately, from time to time Anton would forget writing some letter and write it again. He asks you to count the total number of distinct letters in his set.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first and the single line contains the set of letters. The length of the line doesn't exceed 1000. It is guaranteed that the line starts from an opening curved bracket and ends with a closing curved bracket. Between them, small English letters are listed, separated by a comma. Each comma is followed by a space.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single number — the number of distinct letters in Anton's set.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0006940094115964135" id="id0018437622408163645" class="input-output-copier">Copy</div></div><pre id="id0006940094115964135">{a, b, c}<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009678219768088562" id="id006671575544799662" class="input-output-copier">Copy</div></div><pre id="id009678219768088562">3<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0050047288107499" id="id00637550714276354" class="input-output-copier">Copy</div></div><pre id="id0050047288107499">{b, a, b, a}<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009500734469695354" id="id0021222308036599635" class="input-output-copier">Copy</div></div><pre id="id009500734469695354">2<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009816933314104573" id="id004835769926623976" class="input-output-copier">Copy</div></div><pre id="id009816933314104573">{}<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009045048942209212" id="id007775381878892427" class="input-output-copier">Copy</div></div><pre id="id009045048942209212">0<br></pre></div></div></div>
