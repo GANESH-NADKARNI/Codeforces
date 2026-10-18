@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 13 |
+| 62 | 13 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (37)
+- [implementation](#implementation) (38)
 - [math](#math) (11)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
-- [strings](#strings) (12)
+- [strings](#strings) (13)
 
 ---
 
@@ -134,6 +134,7 @@
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
@@ -190,6 +191,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 
 ---
 
