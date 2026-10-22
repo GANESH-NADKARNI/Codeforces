@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 13 |
+| 66 | 13 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (41)
-- [math](#math) (11)
+- [implementation](#implementation) (42)
+- [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -142,6 +142,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 
 ### math
@@ -159,6 +160,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 
 ### number theory
 
