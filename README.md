@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 72 | 14 |
+| 73 | 14 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (8)
 - [brute force](#brute-force) (10)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (44)
 - [math](#math) (15)
 - [number theory](#number-theory) (2)
@@ -73,6 +73,7 @@
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
+| 2272B | [Frogs Jump](https://codeforces.com/contest/2272/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/2272/B%20-%20Frogs%20Jump/solution.cpp) |
 
 ### dp
 
@@ -107,6 +108,7 @@
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
+| 2272B | [Frogs Jump](https://codeforces.com/contest/2272/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/2272/B%20-%20Frogs%20Jump/solution.cpp) |
 
 ### implementation
 
