@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 14 |
+| 79 | 14 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [greedy](#greedy) (12)
 - [implementation](#implementation) (48)
 - [math](#math) (15)
-- [number theory](#number-theory) (2)
+- [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (6)
 - [strings](#strings) (17)
@@ -190,6 +190,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
+| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### shortest paths
