@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 16 |
+| 86 | 16 |
 
 ---
 
@@ -22,8 +22,8 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (15)
 - [implementation](#implementation) (52)
-- [math](#math) (17)
-- [number theory](#number-theory) (3)
+- [math](#math) (18)
+- [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (7)
 - [strings](#strings) (17)
@@ -202,6 +202,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### number theory
@@ -210,6 +211,7 @@
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### shortest paths
