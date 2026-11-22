@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 98 | 16 |
+| 99 | 16 |
 
 ---
 
@@ -20,9 +20,9 @@
 - [dp](#dp) (3)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (16)
+- [greedy](#greedy) (17)
 - [implementation](#implementation) (58)
-- [math](#math) (21)
+- [math](#math) (22)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (8)
@@ -130,6 +130,7 @@
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
@@ -223,6 +224,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 
 ### number theory
 
