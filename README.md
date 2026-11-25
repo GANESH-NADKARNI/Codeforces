@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 100 | 16 |
+| 101 | 16 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (18)
-- [implementation](#implementation) (58)
+- [implementation](#implementation) (59)
 - [math](#math) (23)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
@@ -199,6 +199,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/GANESH-NADKARNI/Codeforces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 
 ### math
 
